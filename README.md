@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🏎 I lead people, teams and organizations!
 - 🎤 I host the [DevJourney Podcast](https://devjourney.info).
 - 🌱 I speak Python 🐍 with a C# accent
-- 👯 I’m looking to collaborate on mentoring, career growth, learning & leadership
-- 💬 Ask me about mentoring, public speaking, podcasting, engineering-management and/or people-leadership?
+- 👯 I want to collaborate on leadership, mentoring, career growth & learning
+- 💬 Ask me about leadership, mentoring, public speaking, podcasting and engineering-management
 - 📫 How to reach me: [@timothep](https://twitter.com/timothep) on Twitter
 - 😄 Pronouns: he/him
