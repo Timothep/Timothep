@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 🌱 I speak Python 🐍 with a C# accent
 - 👯 I want to collaborate on leadership, mentoring, career growth & learning
 - 💬 Ask me about leadership, mentoring, public speaking, podcasting and engineering-management
-- 📫 How to reach me: [@timothep@octodon.social](https://octodon.social/@timothep) on Mastodon
+- 📫 How to reach me: [https://hachyderm.io/@timothep](https://hachyderm.io/@timothep) on Mastodon
 - 😄 Pronouns: he/him
